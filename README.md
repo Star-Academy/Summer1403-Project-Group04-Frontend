@@ -1,5 +1,8 @@
 # Group4Front
 
+![Demo](https://s4.gifyu.com/images/bLlVm.gif)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
 
 ## Development server
